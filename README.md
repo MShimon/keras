@@ -4,4 +4,4 @@ keras sample codes
 python => 3.6.0<br>
 keras => 2.0.8
 # Repository
-LSTM:LSTM codes
+LSTM:LSTM models
